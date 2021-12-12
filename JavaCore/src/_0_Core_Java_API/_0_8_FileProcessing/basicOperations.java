@@ -1,4 +1,4 @@
-package FileProcessing;
+package _0_Core_Java_API._0_8_FileProcessing;
 import java.io.File;
 
 /** @author Marcin
