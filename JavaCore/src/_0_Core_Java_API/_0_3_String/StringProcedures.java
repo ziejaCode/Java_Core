@@ -1,10 +1,9 @@
-package String;
+package _0_Core_Java_API._0_3_String;
 /** @author Marcin
  *  This application shows different Java manipulations
  **/
 public class StringProcedures {
-    public static void main(String []args){
-    
+    public static void main(String []args){    
         
         // How to check the lenght of String        
         String CheckMyLength  = "I am fuckong long";        
@@ -12,10 +11,9 @@ public class StringProcedures {
         System.out.println(StringsLength);
 
         //How to print it Specific character
-        System.out.println(CheckMyLength.charAt(11));
+        System.out.println(CheckMyLength.charAt(11));        
         
-        
-        //How to print all character in diffrent ways 
+        //How to print all character in different ways 
         String space = null;
         for(int i = 0;i < CheckMyLength.length();i++){
             

@@ -1,4 +1,4 @@
-package String;
+package _0_Core_Java_API._0_3_String;
 
 public class SplitingStrings {
 	public static void main(String args[]) throws Exception {

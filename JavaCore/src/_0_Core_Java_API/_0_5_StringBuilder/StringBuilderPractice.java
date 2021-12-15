@@ -1,4 +1,4 @@
-package StringBuilder;
+package _0_Core_Java_API._0_5_StringBuilder;
 //import java.lang.StringBuilder;
 
 import javax.swing.JOptionPane;

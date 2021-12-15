@@ -1,4 +1,4 @@
-package StringBuffer;
+package _0_Core_Java_API._0_4_StringBuffer;
 
 public class MethodsOfStringBuffer {
 
@@ -17,12 +17,14 @@ public class MethodsOfStringBuffer {
 		
 		System.out.println(s.append(45435));
 		System.out.println(s);
-		
-		s.insert(23, se); // try this when you open it next time
+		System.out.println(s.reverse());
+		s.insert(2, se); // try this when you open it next time
 		
 		s.reverse(); // try this when you open it next time
 		
 		s.toString(); // try this when you open it next time
+		
+		
 		
 		
 		

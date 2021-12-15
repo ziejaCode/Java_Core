@@ -1,4 +1,4 @@
-package String;
+package _0_Core_Java_API._0_3_String;
 
 // created by Marcin 
 public class LastLetter {

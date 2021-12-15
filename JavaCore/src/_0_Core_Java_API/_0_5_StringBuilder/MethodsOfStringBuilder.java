@@ -1,4 +1,4 @@
-package StringBuilder;
+package _0_Core_Java_API._0_5_StringBuilder;
 
 public class MethodsOfStringBuilder {
 	

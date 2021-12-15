@@ -1,4 +1,4 @@
-package StringBuilder;
+package _0_Core_Java_API._0_5_StringBuilder;
 
 /**
     In theory, any number of methods can be chained in this fashion,
@@ -10,7 +10,7 @@ package StringBuilder;
 
 public class chainedMethods {
 
-	//	result = method1().method2(). method3();  // try this when you open it next time
+	//result = method1().method2(). method3();  // try this when you open it next time
 	
 }
 

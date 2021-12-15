@@ -1,4 +1,4 @@
-package System;
+package _0_Core_Java_API._0_6_System;
 
 public class DifferentUseOfSystemClass {
 	
