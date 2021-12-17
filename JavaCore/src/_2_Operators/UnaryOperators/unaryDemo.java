@@ -1,4 +1,4 @@
-package UnaryOperators;
+package _2_Operators.UnaryOperators;
 
 public class unaryDemo {
 

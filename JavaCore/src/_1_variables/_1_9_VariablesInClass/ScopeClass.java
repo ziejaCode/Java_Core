@@ -1,4 +1,4 @@
-package VariablesInClass;
+package _1_variables._1_9_VariablesInClass;
 
 
 // created by Marcin 

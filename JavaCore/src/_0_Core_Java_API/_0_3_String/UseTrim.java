@@ -1,4 +1,4 @@
-package String;
+package _0_Core_Java_API._0_3_String;
 
 import java.io.BufferedReader;
 import java.io.IOException;

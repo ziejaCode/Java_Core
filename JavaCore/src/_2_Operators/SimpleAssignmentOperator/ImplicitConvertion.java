@@ -1,4 +1,4 @@
-package SimpleAssignmentOperator;
+package _2_Operators.SimpleAssignmentOperator;
 
 // created by Marcin 
 public class ImplicitConvertion {

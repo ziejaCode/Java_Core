@@ -1,4 +1,4 @@
-package _6_logicalOperators;
+package _2_Operators._2_6_logicalOperators;
 /** @author Marcin
  *  This application is about conditions statement thats proceed only if one of
  *  conditions is true

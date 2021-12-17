@@ -1,4 +1,4 @@
-package _4_ArithmeticOperators;
+package _2_Operators._2_4_ArithmeticOperators;
 
 public class TheRemainderOperator {
 

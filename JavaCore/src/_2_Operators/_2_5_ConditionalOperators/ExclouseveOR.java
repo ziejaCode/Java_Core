@@ -1,4 +1,4 @@
-package _5_ConditionalOperators;
+package _2_Operators._2_5_ConditionalOperators;
 /** @author Marcin
  *  This application is about conditions statement thats proceed only if one of
  *  conditions is true

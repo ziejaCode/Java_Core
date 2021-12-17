@@ -1,4 +1,4 @@
-package _3_instanceofComparison;
+package _2_Operators._2_3_instanceofComparison;
 
 class lola{	
 }

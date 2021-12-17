@@ -1,4 +1,4 @@
-package _6_logicalOperators;
+package _2_Operators._2_6_logicalOperators;
 
 public class BooleanInvert {
 	/**

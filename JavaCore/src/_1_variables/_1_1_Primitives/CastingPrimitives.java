@@ -16,7 +16,7 @@ public class CastingPrimitives {
         char let = (char)num12;
         System.out.println(let);
         
-        for(int i = 0; i < 2343;i++){ // using for loop through an arry of char 
+        for(int i = 0; i < 2343;i++){ // using for loop through an array of char 
             char let1 = (char)i;
             System.out.print(let1);
         }

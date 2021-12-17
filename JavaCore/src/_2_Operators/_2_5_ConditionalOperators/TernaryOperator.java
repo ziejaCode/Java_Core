@@ -1,4 +1,4 @@
-package _5_ConditionalOperators;
+package _2_Operators._2_5_ConditionalOperators;
  /** 
   * this is the practice use of ternary operator 
   * It is used instead of if statement

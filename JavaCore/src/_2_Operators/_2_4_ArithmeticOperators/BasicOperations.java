@@ -1,4 +1,4 @@
-package _4_ArithmeticOperators;
+package _2_Operators._2_4_ArithmeticOperators;
 /** @author Marcin
  *  This application shows how basic calculations in java are proceeded  
  **/

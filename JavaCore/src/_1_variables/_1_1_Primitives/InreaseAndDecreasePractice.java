@@ -12,7 +12,7 @@ public class InreaseAndDecreasePractice {
         f++;
         System.out.println(12 * f++);
         System.out.println(f++);
-        System.out.println(f);
+        System.out.println(++f);
         System.out.println(1.6 + c);
     }
 
