@@ -1,4 +1,4 @@
-package Finally;
+package _8_AssertionAndExceptions.Finally;
 
 // created by Marcin 
 public class TryCatchFinallly {

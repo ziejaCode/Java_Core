@@ -1,4 +1,4 @@
-package _5_labeled_AND_Unlabeled_Statement;
+package _5_FlowControl._5_5_labeled_AND_Unlabeled_Statement;
 /**
  * @author Marcin
  */

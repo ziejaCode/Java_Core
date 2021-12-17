@@ -1,4 +1,4 @@
-package Assertion;
+package _8_AssertionAndExceptions.Assertion;
 
 public class Asserty {
 	private  String msg = "init";

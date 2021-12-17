@@ -1,4 +1,4 @@
-package _1_Exceptions_Custom;
+package _8_AssertionAndExceptions._1_Exceptions_Custom;
 
 public class ThrowingException {
 

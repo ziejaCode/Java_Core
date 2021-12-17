@@ -1,4 +1,4 @@
-package _6_1_SimpleTryCatchExceptions;
+package _8_AssertionAndExceptions._6_1_SimpleTryCatchExceptions;
 
 // created by Marcin 
 
@@ -14,16 +14,13 @@ public class Declairing {
                                                                              // use exception in this method  
                 Scanner f = new Scanner(new File("zenekx.txt")); 
                 JOptionPane.showMessageDialog(null,"Witaj zenek");
-
-                
                 
         }
 } 
 
 
  class decalringII{               
-        public static void main(String args[]){        
-            
+        public static void main(String args[]){ 
             
             try{
                 Scanner f = new Scanner(new File("zenekx.txt"));

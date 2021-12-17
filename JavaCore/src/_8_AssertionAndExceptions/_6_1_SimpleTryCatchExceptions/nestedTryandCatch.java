@@ -1,4 +1,4 @@
-package _6_1_SimpleTryCatchExceptions;
+package _8_AssertionAndExceptions._6_1_SimpleTryCatchExceptions;
 
 /** created by Marcin
  * 

@@ -1,4 +1,4 @@
-package Parsing;
+package _4_ParsingTokenizingAndFormatting._4_2_Parsing;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -26,7 +26,7 @@ public class IfExecrcise {
 			
 //			int num = m.charAt(counter1++);
 			
-//			Pattern p = Pattern.compile(f,"[If][if][\\s\\^w\\.]");
+			Pattern p = Pattern.compile("[If][if][\\s\\^w\\.]");
 			Matcher n = p.matcher(m);
 			
 			while(n.find()) {		

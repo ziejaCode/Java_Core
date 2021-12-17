@@ -1,4 +1,4 @@
-package _6_2_Finally;
+package _8_AssertionAndExceptions._6_2_Finally;
 
 // created by Marcin 
 public class TryFinaly {

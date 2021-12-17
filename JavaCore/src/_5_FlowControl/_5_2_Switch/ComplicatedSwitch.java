@@ -1,5 +1,5 @@
 
-package _2_Switch;
+package _5_FlowControl._5_2_Switch;
 
 // created by Marcin 
 public class ComplicatedSwitch {

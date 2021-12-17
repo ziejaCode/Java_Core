@@ -1,4 +1,4 @@
-package _3_LoopsAndIterators;
+package _5_FlowControl._5_3_LoopsAndIterators;
 
 // created by Marcin this class shows how to use each-for loop to traverse through array
 
