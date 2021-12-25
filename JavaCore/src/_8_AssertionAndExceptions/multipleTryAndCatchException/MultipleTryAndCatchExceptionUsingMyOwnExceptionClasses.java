@@ -1,7 +1,8 @@
-package multipleTryAndCatchException;
-// created by Marcin 
-import MyCustomExceptions.*;// import all nessesary exception classes from package 
+package _8_AssertionAndExceptions.multipleTryAndCatchException;
 import java.util.Scanner;
+
+import _8_AssertionAndExceptions.MyCustomExceptions.MyOwnException1;
+import _8_AssertionAndExceptions.MyCustomExceptions.MyOwnException2;
 
 public class MultipleTryAndCatchExceptionUsingMyOwnExceptionClasses {
         public static void main(String args[]){

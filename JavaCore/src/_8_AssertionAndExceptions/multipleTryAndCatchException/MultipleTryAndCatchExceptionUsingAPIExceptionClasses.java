@@ -1,4 +1,4 @@
-package multipleTryAndCatchException;
+package _8_AssertionAndExceptions.multipleTryAndCatchException;
 
 // created by Marcin 
 

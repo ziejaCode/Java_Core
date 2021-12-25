@@ -1,4 +1,4 @@
-package MyCustomExceptions;
+package _8_AssertionAndExceptions.MyCustomExceptions;
 
 // created by Marcin 
 public class MyOwnException1 extends Exception{
