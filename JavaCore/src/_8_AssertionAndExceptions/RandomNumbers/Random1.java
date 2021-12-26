@@ -1,4 +1,4 @@
-package RandomNumbers;
+package _8_AssertionAndExceptions.RandomNumbers;
 import java.util.Random;
 
 // created by Marcin 

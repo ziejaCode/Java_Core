@@ -1,4 +1,4 @@
-package RandomNumbers;
+package _8_AssertionAndExceptions.RandomNumbers;
 
 // created by Marcin
 // build in java class that let you to get quick random num if you need whitout

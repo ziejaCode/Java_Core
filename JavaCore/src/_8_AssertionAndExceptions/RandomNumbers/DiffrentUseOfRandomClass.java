@@ -1,4 +1,4 @@
-package RandomNumbers;
+package _8_AssertionAndExceptions.RandomNumbers;
 
 // created by Marcin 
 
