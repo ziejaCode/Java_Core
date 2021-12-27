@@ -1,4 +1,4 @@
-package SimpleTryCatchExceptions;
+package _8_AssertionAndExceptions.SimpleTryCatchExceptions;
 
 /** created by Marcin
  * 
