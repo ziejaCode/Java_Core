@@ -1,4 +1,4 @@
-package SystemOutPrintF;
+package _8_AssertionAndExceptions.SystemOutPrintF;
 /** @author Marcin
  *  This application is about 
  **/
