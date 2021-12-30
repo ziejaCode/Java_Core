@@ -1,4 +1,4 @@
-package wiredExceptions;
+package _8_AssertionAndExceptions.wiredExceptions;
 // created by Marcin 
 public class Whiz1 {    
         public static void main(String args[]){
