@@ -14,7 +14,20 @@ public class DoWhileLoop {
             number++;
             }while (number <= max); // even if condition fails statement will be processed at leaset once 
 
+       
+            runaround();
+            
+            
         }
+        
+        public static int runaround() {
+        	
+        	
+        	
+        	return 0;
+        }
+        
+        
 
 }
 
