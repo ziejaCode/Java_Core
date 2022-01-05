@@ -1,4 +1,4 @@
-    package ThrowsDeclaration;
+    package _8_AssertionAndExceptions.ThrowsDeclaration;
 
 // created by Marcin 
 

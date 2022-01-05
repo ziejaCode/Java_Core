@@ -1,4 +1,4 @@
-package ThrowsDeclaration;
+package _8_AssertionAndExceptions.ThrowsDeclaration;
 import java.lang.Exception.*;
 // created by Marcin 
 public class Throw12 {

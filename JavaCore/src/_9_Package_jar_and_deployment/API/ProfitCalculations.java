@@ -1,4 +1,4 @@
-package API;
+package _9_Package_jar_and_deployment.API;
 /**
  * @author Marcin
  * this class is a part of business API and contains methods related to financial calculations
