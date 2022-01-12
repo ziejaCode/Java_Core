@@ -11,5 +11,6 @@ public interface NewInterface {
     String metoda3(String answer);
     
     public String metoda4(String answer);
+    public String metoda5(String answer);
 
 }
