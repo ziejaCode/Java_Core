@@ -1,6 +1,6 @@
 package _10_Classes._10_4_declareInterfaces;
 
-import _6a_interfaces.NewInterface;
+//import _6a_interfaces.NewInterface;
 
 class man implements ceramicToy,toy,electricDivaice,NewInterface{
 
