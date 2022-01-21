@@ -24,6 +24,12 @@ public class implementNewInterfacesImpl implements NewInterface {
     public String metoda3(String answer) {
         throw new UnsupportedOperationException("Not supported yet.");
     }
+
+	@Override
+	public String metoda5(String answer) {
+		// TODO Auto-generated method stub
+		return null;
+	}
         
     
 }

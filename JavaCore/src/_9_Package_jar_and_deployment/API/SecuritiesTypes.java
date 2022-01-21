@@ -1,4 +1,4 @@
-package API;
+package _9_Package_jar_and_deployment.API;
 /**
  * @author Marcin
  */
