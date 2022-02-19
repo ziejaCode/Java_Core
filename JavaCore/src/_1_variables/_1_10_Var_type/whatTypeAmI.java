@@ -12,8 +12,8 @@ public class whatTypeAmI {
 	 *  
 	 **/
 	public static void whatType() {
-		   var name = "Hello";
-		   var size = 7;
+		   String name = "Hello";
+		   int size = 7;
 		   System.out.println(name);
 		   System.out.println(size);
 		   name = "Bolo";

@@ -26,16 +26,13 @@ public class instantInnerClassSample {
 				System.out.println("inner class with id:" + id + " has been called");
 			}
 
-			@Override
 			public void displayWelcome() {
 				// TODO Auto-generated method stub				
 			}
-			@Override
 			public double calculateBenefit() {
 				// TODO Auto-generated method stub
 				return 0;
 			}
-			@Override
 			public void displayResult() {
 				// TODO Auto-generated method stub				
 			}			
