@@ -20,7 +20,7 @@ public class ComplicatedSwitch {
                 break;
                     
             }
-        System.out.println(x);
+        System.out.println("change" + x);
 
         }
 
