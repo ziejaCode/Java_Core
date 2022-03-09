@@ -15,7 +15,7 @@ class SampleClass{
         System.out.println("sampleOne");
     }
     public void Metoda2(){
-        System.out.println("sampleTwo");
+        System.out.println("sampleTwoTest");
     }
     
 }
