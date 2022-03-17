@@ -19,6 +19,7 @@ public class BasicEnum {
 	    Week[]days  = Week.values(); // this method creates data collection of given enum values
 	    
 	    System.out.println(days[2].toString());
+	    
 	
 	}
 }
