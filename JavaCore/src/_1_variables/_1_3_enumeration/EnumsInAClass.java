@@ -18,4 +18,6 @@ public class EnumsInAClass {
 		    }
 		    return "Shape is oval";
 		  }
-		}
+	
+	
+}

@@ -12,7 +12,8 @@ public class BasicArray {
         
 // initialize Array 
         
-        double [] nums = new double [4];
+//        double [] nums = new double [4];
+        double [] nums = {}; 
         nums[0] = 34.5;
         nums[1] = 24.5;
         nums[2] = 54.5;
@@ -21,6 +22,8 @@ public class BasicArray {
             /** or that **/
 
         double numers[] = {34, 67, 89};
+        
+        double numersInf[] = {};
         
         int[]words;        
         words = new int[]{2,3,4}; // this is another way to initialize an array
