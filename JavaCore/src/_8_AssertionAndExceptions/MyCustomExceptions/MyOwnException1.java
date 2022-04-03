@@ -7,7 +7,7 @@ public class MyOwnException1 extends Exception{
         System.out.print("This number is minus ");
     }
     public MyOwnException1(double num) {
-        System.out.print(num + " This number is a float ");
+        System.out.print(num + " This number is a float number 2");
     }
 }
 
