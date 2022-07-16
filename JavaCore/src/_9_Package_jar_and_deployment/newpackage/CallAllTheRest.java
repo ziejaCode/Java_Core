@@ -1,6 +1,9 @@
-package newpackage;
-import oldPackage.ClassToBeImported1;// here we are importing other package
-import oldPackage.StaticFinalStuff;
+package _9_Package_jar_and_deployment.newpackage;
+
+import _9_Package_jar_and_deployment.oldPackage.ClassToBeImported1;
+import _9_Package_jar_and_deployment.oldPackage.ClassToBeImported2;
+import _9_Package_jar_and_deployment.oldPackage.StaticFinalStuff;
+
 /**
  * @author Marcin
  */
@@ -13,7 +16,7 @@ public class CallAllTheRest {
        ClassToBeImported1 c1 = new ClassToBeImported1("Franek"); 
        c1.MethodNum2();
        
-       oldPackage.ClassToBeImported2 c2 = new oldPackage.ClassToBeImported2("Heniek",4); // another way to import class
+       ClassToBeImported2 c2 = new ClassToBeImported2("Heniek",4); // another way to import class
        
     
        TheClassToBeCalledFromTheSomePackage t1 = new TheClassToBeCalledFromTheSomePackage();

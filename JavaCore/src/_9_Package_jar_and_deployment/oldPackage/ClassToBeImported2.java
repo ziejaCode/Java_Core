@@ -1,4 +1,4 @@
-package oldPackage;
+package _9_Package_jar_and_deployment.oldPackage;
 /** @author Marcin
  *  This application is also about to be imported 
  **/

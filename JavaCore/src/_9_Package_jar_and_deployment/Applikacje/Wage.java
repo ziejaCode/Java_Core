@@ -1,6 +1,9 @@
-package Applikacje;
+package _9_Package_jar_and_deployment.Applikacje;
 import java.util.Scanner;
-import pakowanie.*;
+
+import _9_Package_jar_and_deployment.pakowanie.MedicalCard;
+import _9_Package_jar_and_deployment.pakowanie.TaxCalculation;
+
 // created by Marcin This class will show us how to import your own made classes for your own application 
 public class Wage {
         public static void main(String args[]){

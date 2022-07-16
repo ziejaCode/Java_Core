@@ -1,4 +1,4 @@
-package jarDirectoryCheck;
+package _9_Package_jar_and_deployment.jarDirectoryCheck;
 
 import java.io.*;
 import java.util.*;

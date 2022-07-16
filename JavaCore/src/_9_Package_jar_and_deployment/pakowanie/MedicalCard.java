@@ -1,4 +1,4 @@
-package pakowanie;
+package _9_Package_jar_and_deployment.pakowanie;
 // created by Marcin 
 // this class calculate if you are allowed to get Medical Card
 public class MedicalCard {

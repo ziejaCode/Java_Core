@@ -1,4 +1,4 @@
-package jarTest;
+package _9_Package_jar_and_deployment.jarTest;
 
 public class HelloFormJar {
 

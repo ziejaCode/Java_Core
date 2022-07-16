@@ -1,4 +1,4 @@
-package paczkaNr1;
+package _9_Package_jar_and_deployment.paczkaNr1;
 
 /**
  * @author Marcin

@@ -1,4 +1,4 @@
-package newpackage;
+package _9_Package_jar_and_deployment.newpackage;
 /** @author Marcin
  *  This application is about to be called from the same package 
  *  so it doesn't have to be imported
