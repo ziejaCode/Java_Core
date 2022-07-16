@@ -7,6 +7,7 @@ import _9_Package_jar_and_deployment.pakowanie.TaxCalculation;
 // created by Marcin This class will show us how to import your own made classes for your own application 
 public class Wage {
         public static void main(String args[]){
+        	
             Scanner keyboard = new Scanner(System.in);
             System.out.println("This applications will measure your abilities for Social Services.");
             System.out.println("Enter your wage and pick your choice of service.");

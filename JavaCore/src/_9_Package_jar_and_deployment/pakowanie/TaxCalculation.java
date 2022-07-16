@@ -4,8 +4,6 @@ package _9_Package_jar_and_deployment.pakowanie;
 public class TaxCalculation {
     
         public static void Calculate(double wage){
-        
-
             
             if(wage <= 40000){
                 wage *= 0.10;
