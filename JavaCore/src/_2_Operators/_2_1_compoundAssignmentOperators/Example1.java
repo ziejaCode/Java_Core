@@ -34,6 +34,8 @@ public class Example1 {
 			
 			// it is evaluated like this:
 			x = x * (2 + 5);
+
+		System.out.println("This is just a test");
 		
 	}
 
